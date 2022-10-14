@@ -114,7 +114,7 @@ final class FriendsViewController: UIViewController, UIGestureRecognizerDelegate
             let sectionHeader = tableView.dequeueReusableHeaderFooterView(withIdentifier: "FriendsHeader") as? FriendsHeader else { return nil }
         
         sectionHeader.textLabel?.text = "Friends"
-        sectionHeader.contentView.backgroundColor = .systemBlue
+        sectionHeader.contentView.backgroundColor = #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1)
         return sectionHeader
     }
     

@@ -43,4 +43,8 @@ final class NewsTableViewController: UITableViewController {
         }
         return UITableViewCell()
     }
+    
+    override func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
+        return 300
+    }
 }

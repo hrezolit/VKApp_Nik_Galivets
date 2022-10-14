@@ -27,7 +27,6 @@ class FriendTableViewCell: UITableViewCell {
         nameOfFriend.layer.shadowRadius = 2.5
         nameOfFriend.layer.shadowOpacity = 0.5
         nameOfFriend.layer.shadowOffset = CGSize(width: 1, height: 2)
-        
     }
     
     func configure(with user: User) {

@@ -29,7 +29,7 @@ class NewsTableViewCell: UITableViewCell {
     override func layoutSubviews() {
         super.layoutSubviews()
         newLayer.frame = contentView.frame
-        newLayer.colors = [UIColor.white.cgColor, UIColor.blue.cgColor ]
+        newLayer.colors = [ #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1).cgColor, #colorLiteral(red: 0.8937880397, green: 0.8937880397, blue: 0.8937880397, alpha: 1).cgColor ]
         contentView.layer.insertSublayer(newLayer, at: 0)
     }
     
@@ -50,7 +50,7 @@ class NewsTableViewCell: UITableViewCell {
     }
     
     func configure(for news: News) {
-        labelNews.text = news.text
+        self.labelNews.text = news.text
         self.imageNews.kf.setImage(with: URL(string: news.url))
     }
 }

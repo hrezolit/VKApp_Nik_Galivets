@@ -134,7 +134,7 @@ final class GroupTableViewController: UITableViewController, UISearchBarDelegate
         guard
             let sectionHeader = tableView.dequeueReusableHeaderFooterView(withIdentifier: "GroupHeader") as? GroupHeader else { return nil }
         sectionHeader.textLabel?.text = "Group"
-        sectionHeader.contentView.backgroundColor = .systemBlue
+        sectionHeader.contentView.backgroundColor = #colorLiteral(red: 0.8039215803, green: 0.8039215803, blue: 0.8039215803, alpha: 1)
         return sectionHeader
     }
     
