@@ -1,6 +1,6 @@
 # VKApp
 
-<h1 align="left"><img src="https://github.com/hrezolit/VKApp_Nik_Galivets/blob/main/VKApp_Nik_Galivets/View/Assets.xcassets/AppIcon.appiconset/ItunesArtwork%402x.png"width="200", height="200"/></h1>
+<h1 align="left"><img src= "https://github.com/hrezolit/VKApp_Nik_Galivets/blob/main/VKApp_Nik_Galivets/View/Assets.xcassets/VKByNik.imageset/768px-VK_Compact_Logo.jpg"width="200", height="200"/></h1>
 
 [![Swift Version][swift-image]][swift-url]
 ![Platform][platform-image]
