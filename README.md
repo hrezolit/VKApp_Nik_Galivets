@@ -42,7 +42,9 @@ VKApp is a project i was working on while studying at GeekBrains University. Her
 To run this project, install it locally using TestFlight
 
 ## Preview:
-<h1 align="left"><img src="https://user-images.githubusercontent.com/62234354/217743689-abcfa083-4ac8-4192-9ffd-1267a358c10c.gif"width="200", height="450"/></h1>
+<h1 align="left"><img src="https://github.com/hrezolit/VKApp_Nik_Galivets/assets/62234354/a457263d-811c-497c-9d5d-8119e7df4aaa"width="200", height="450"/></h1>
+<h1 align="left"><img src="https://github.com/hrezolit/VKApp_Nik_Galivets/assets/62234354/9d8b629c-595e-4e96-9062-b2f9fb2bcd79"width="200", height="450"/></h1>
+<h1 align="left"><img src="https://github.com/hrezolit/VKApp_Nik_Galivets/assets/62234354/0d293334-3942-487b-8271-35d704faed6a"width="200", height="450"/></h1>
 
 [swift-image]: https://img.shields.io/badge/swift-5.4-orange.svg
 [swift-url]: https://swift.org/
