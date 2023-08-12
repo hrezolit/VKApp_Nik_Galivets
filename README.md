@@ -11,7 +11,8 @@
 ![Realm]
 ![Kingfisher]
      
-NoteApp simple app for practicing with CoreData
+VKApp - is a client server app, 
+with third party frameworks
 
 ## Table of contents:
 * [Description](#description)
@@ -22,19 +23,19 @@ NoteApp simple app for practicing with CoreData
 * [Preview](#preview)
 
 ## Description:
-NoteApp is clone of Native Note app from Apple inc. Testing, testing...!
+VKApp is a project i was working on while studying at GeekBrains University. Here i tried many architecture patterns, such as Viper, MVP and it's confused me and i left on MVC
 
 ## Getting started:
 1. Make sure you have the Xcode version 14.3 or above installed on your computer.
-2. Download the "NoteApp" project files from the repository.
+2. Download the "VKApp" project files from the repository.
 3. Open the project files in Xcode.
 4. Run the project.
 
 ## Architecture:
-* NoteApp project is implemented using the Model-View-Controller(MVC) architecture pattern.
+* VKApp project is implemented using the Model-View-Controller(MVC) architecture pattern.
  
 ## Requirements:
-* Xcode Version 14.3.1
+* Xcode Version 14.3
 * iOS 16.0
 	
 ## Setup:
